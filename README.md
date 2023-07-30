@@ -22,7 +22,7 @@ Welcome to my personal website! You can visit the live site [here](https://zayya
 ⚡️ Fully Responsive\
 ⚡️ HTML CSS & JavaScript\
 ⚡️ Light and dark mode\
-⚡️ Compatible with cross-width platforms
+⚡️ Compatible across a wide range of devices with varying screen widths, including mobile phones, laptops, and desktop computers
 
 ## Sections 📚
 ✔️ Home\
