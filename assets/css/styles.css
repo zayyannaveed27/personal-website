@@ -239,6 +239,7 @@ img {
 
 .nav__link:hover{
     color: var(--first-color);
+    transform: scale(1.05);
 }
 
 .nav__icon{
@@ -608,6 +609,11 @@ img {
   color: var(--text-color-light);
 }
 
+.contact__subtitle:hover{
+  color: var(--first-color-lighter);
+  transform: scale(1.1rem);
+}
+
 .contact__content{
   background-color: var(--input-color);
   border-radius: .5rem;
@@ -653,10 +659,15 @@ img {
 .footer__links{
   display: flex;
   flex-direction: column;
-  row-gap: 1.5rem;
+  row-gap: 1rem;
 }
 
+.footer__link{
+  font-size: .85rem;
+}
 .footer__link:hover{
+  font-size: .85rem;
+  font-weight: bold;
   color: var(--first-color-lighter);
 }
 
